@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Joey Tatú!
-- 👀 You can find all about me at [linkedin.com/in/JoeyTatu](https://linkedin.com/in/JoeyTatu)
-- 📫 You can email me at [joey.tatu@student.ncirl.ie](mailto:joey.tatu@student.ncirl.ie)
+- 👀 About me: [linkedin.com/in/JoeyTatu](https://linkedin.com/in/JoeyTatu)
+- 📫 Email: [joey.tatu@student.ncirl.ie](mailto:joey.tatu@student.ncirl.ie)
+- 📞 Public phone number: [+1 (929)-923-7727](tel:+19299237727) (This is a New York, USA number and charges will apply.)
+- 📱 WhatsApp: [+1 (929)-923-7727](https://wa.me/message/UNFNQDVZ2X4IB1)
 
 <!---
 JoeyTatu/JoeyTatu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
