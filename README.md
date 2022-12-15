@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joey Tatú!
 - 👀 About me: [linkedin.com/in/JoeyTatu](https://linkedin.com/in/JoeyTatu).
 - 📫 Email: [joey@joeytatu.com](mailto:joey@joeytatu.com).
-- 📱 WhatsApp: [+44 7537 180030](https://api.whatsapp.com/send?phone=447537180030) <sub><sup>No calls or texts to this number</sub></sup>
+- 📱 WhatsApp: [+44 7537 180030](https://api.whatsapp.com/send?phone=447537180030) <sub><sup>(No calls or texts to this number)</sub></sup>
 
 - 🚧 NCI Showcase BSc. final year project (2021): [Automatic Retinopathy Detection Using Digital Image Processing via a Smart Device](https://showcase.ncirl.ie/Details/automatic-retinopathy-detection-using-digital-image-processing-via-a-smart-device). (My only regret is the very long title. 😂)
 
