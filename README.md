@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Joey Tatú!
 - 👀 About me: [linkedin.com/in/JoeyTatu](https://linkedin.com/in/JoeyTatu).
-- 📫 Email: [joey@joeytatu.com](mailto:joey@joeytatu.com).
+- 🗨️ Socials: - [TattedFaceJoey.ie](https://tattedfacejoey.ie).
+- 📫 Email: [joey@TattedFaceJoey.ie](mailto:joey@tattedfacejoey.ie).
 
 - 🚧 NCI Showcase BSc. final year project (2021): [Automatic Retinopathy Detection Using Digital Image Processing via a Smart Device](https://showcase.ncirl.ie/Details/automatic-retinopathy-detection-using-digital-image-processing-via-a-smart-device). (My only regret is the very long title. 😂)
 
